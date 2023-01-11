@@ -1,10 +1,9 @@
 import { useState } from 'react';
 import logo from '../images/logo.png';
-import {AiOutlineSearch,AiOutlineBars} from "react-icons/ai"
-import cart from '../images/cart.png'
+import { AiOutlineSearch } from 'react-icons/ai';
+import cart from '../images/cart.png';
 function Navbar() {
   const [navbar, setNavbar] = useState(false);
-
   return (
     <>
       <div>
@@ -12,7 +11,10 @@ function Navbar() {
           <div className="justify-between px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
             <div>
               <div className="flex items-center justify-between py-3 md:py-5 md:block">
-                  <div className="md:hidden">
+                {/* <div className="">
+                  <AiOutlineBars />
+                </div> */}
+                <div className="md:hidden">
                   <button
                     className="p-2 text-gray-700 rounded-md outline-none focus:border-gray-400 focus:border"
                     onClick={() => setNavbar(!navbar)}
@@ -48,26 +50,22 @@ function Navbar() {
                     )}
                   </button>
                 </div>
-                {/* <div className=''>
-                  <AiOutlineBars/>
-                </div> */}
-                <a href="javascript:void(0) " className='flex'>
+
+                <a href="" className="flex">
                   <h2 className="text-2xl font-bold text-white">
                     <img src={logo} alt="" />
                   </h2>
-                  <h1 className='text-lg font-bold uppercase'>Plants</h1>
-                  
+                  <h1 className="text-lg font-bold uppercase">Plants</h1>
                 </a>
-              <div className='md:hidden'>
-                <AiOutlineSearch className='text-2xl '/>
-              </div>
-              <div className='md:hidden'>
-                <img src={cart} alt="" />
-              </div>
+                <div className="md:hidden">
+                  <AiOutlineSearch className="text-2xl " />
+                </div>
+                <div className="md:hidden">
+                  <img src={cart} alt="" />
+                </div>
               </div>
             </div>
             <div>
-
               <div
                 className={`flex-1 justify-self-center pb-3 mt-8 md:block md:pb-0 md:mt-0 ${
                   navbar ? 'block' : 'hidden'
@@ -87,7 +85,12 @@ function Navbar() {
                     <a href="javascript:void(0)">Contact US</a>
                   </li> */}
                   <li>
-                <input type="text" name="" value="" className='shadow-lg md:w-[700px] w-96 md:h-10 border-2 rounded-md'/>
+                    <input
+                      type="text"
+                      name=""
+                      value=""
+                      className="shadow-lg md:w-[700px] w-96 md:h-10 border-2 rounded-md"
+                    />
                   </li>
                 </ul>
 
@@ -97,11 +100,8 @@ function Navbar() {
               </div>
             </div>
 
-            <div className="hidden space-x-2 md:inline-block">
-              My Account
-
-            </div>
-            <div className=''>
+            <div className="hidden space-x-2 md:inline-block">My Account</div>
+            <div className="invisible md:visible">
               <img src={cart} alt="" />
             </div>
           </div>
