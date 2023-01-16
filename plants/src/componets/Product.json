@@ -26,93 +26,48 @@
     "Product_dis": "£30.00",
     "Product_Image": "./CartImage/Bay tree.png",
     "discription": "The bay leaf is an aromatic leaf commonly used in cooking. It can be used whole, either dried or fresh, in which case it is removed from the dish before consumption, or less commonly used in ground form. It may come from several species of tree, the bay laurel and the California bay tree being the most common. The flavor that a bay leaf imparts to a dish has not been universally agreed upon, but most agree it is a subtle addition"
-  
-  },
-   {
-    "Product_Name": "Aloe Pink Blush",
-    "Product_Price": "£45.00",
-    "Product_dis": "£50.00",
-    "Product_Image": "./CartImage/AloePinkBlush.png",
-    "discription": "Spider Aloe is a small Aloe that forms dense clusters of small 8 inch wide stemless rosettes with 4 inch long by 1/2 inch wide incurved triangular shaped leaves. The leaves have long soft white marginal spines and a gray-green waxy surface covered with irregularly spaced bumps (tubercules). A foot tall flower spikes appear in late winter to spring, bearing about 20 pendulous 1.5 inch long red-orange flowers. This Aloe is drought tolerant with little to no irrigation required and is best when sheltered from getting overly wet in winter. Native to South Africa, Spider Aloe has undergone many different names including Aloe subtuberculata, Aloe suberecta, Aloe tuberculata, Aloe incurva, Aloe acuminata, Catevala humilis, Aloe perfoliata var. humilis and Aloe echinata. The species name humilis means 'low growing', refering to the plant's growth habit"  
   },
   {
-    "Product_Name": "Asparagus Fern",
-    "Product_Price": "£25.00",
+    "Product_Name": "Broughtonia sanguinea var. alba",
+    "Product_Price": "£20.00",
     "Product_dis": "£30.00",
-    "Product_Image": "./CartImage/AsparagusFern.png",
-    "discription": "Neither plant is a fern, but instead, they are warm-weather perennials closely related to the common edible garden asparagus. In zones 9 to 11, these plants are hardy outdoors, where they grow as creeping spreading plants, but it is also common for them to be grown as indoor houseplants, where they make good thriller specimens in mixed containers or hanging baskets"    
+    "Product_Image": "./CartImage/Broughtonia.png",
+    "discription": "Short Description: Broughtonia is a species are found in the Northern Caribbean and the Bahamas. Broughtonia sanguinea are endemic to Jamaica. Var alba has beautiful dainty white shiny textured flowers. Miniature plants and flowers. These orchids grow well in hot and arid conditions and do not like overwatering. They grow well on coconut husk and even hard driftwood. They love a lot of light and good airflow. Grow them like cattleya orchids."
   },
   {
-    "Product_Name": "Ball Cactus",
-    "Product_Price": "£15.00",
+    "Product_Name": "Cactus Euphorbia With White Ceramic Planter",
+    "Product_Price": "£20.00",
+    "Product_dis": "£30.00",
+    "Product_Image": "./CartImage/Cactus.png",
+    "discription": "If you agree, we’ll also use cookies to complement your shopping experience across the Amazon stores as described in our Cookie Notice. This includes using first- and third-party cookies, which store or access standard device information such as a unique identifier. Third parties use cookies for their purposes of displaying and measuring personalised ads, generating audience insights, and developing and improving products. Click ‘Customise Cookies’ to decline these cookies, make more detailed choices, or learn more. You can change your choices at any time by visiting Cookie Preferences, as described in the Cookie Notice. To learn more about how and for what purposes Amazon uses personal information (such as Amazon Store order history), please visit our Privacy Notice."
+  },
+  {
+    "Product_Name": "Calathea",
+    "Product_Price": "£20.00",
+    "Product_dis": "£30.00",
+    "Product_Image": "./CartImage/Calathea.png",
+    "discription": "If you agree, we’ll also use cookies to complement your shopping experience across the Amazon stores as described in our Cookie Notice. This includes using first- and third-party cookies, which store or access standard device information such as a unique identifier. Third parties use cookies for their purposes of displaying and measuring personalised ads, generating audience insights, and developing and improving products. Click ‘Customise Cookies’ to decline these cookies, make more detailed choices, or learn more. You can change your choices at any time by visiting Cookie Preferences, as described in the Cookie Notice. To learn more about how and for what purposes Amazon uses personal information (such as Amazon Store order history), please visit our Privacy Notice."
+  },
+  {
+    "Product_Name": "Canary Island date palm",
+    "Product_Price": "£18.00",
     "Product_dis": "£20.00",
-    "Product_Image": "./CartImage/BallCactus.png",
-    "discription": "The Parodia magnifica genus includes a multitude of showy and easy-to-grow small ball cacti. Their round appearance is to credit for their shapely name, and they can grow in pots in clusters up to over a foot wide. Ball cacti are moderate growers, adding about four inches to their height each year. Older plants will frequently produce flowers in beautiful shades of yellow, red, orange, or pink, and all varietals feature ridges of spikes that start white and grow to a yellow-brown with age"
+    "Product_Image": "./CartImage/CanaryIsland.png",
+    "discription": "The Canary Island date palm is typically cultivated in wet-winter or Mediterranean climates, but also in wet-summer or humid subtropical climates like eastern Australia and the southeastern United States. There are even several instances of cultivated Canary Island date palms in high-latitude oceanic climates, such as Ireland, the UK, and the Channel Islands.[5] It can be cultivated where temperatures rarely fall below −10 or −12 °C (14 or 10 °F) for extended periods, although it will require some protection if cold periods are longer than normal. It is a slowly growing tree, exclusively propagated by seed." 
   },
   {
-    "Product_Name": "Bay tree",
+    "Product_Name": "Cattleya Starlyn Pink",
     "Product_Price": "£25.00",
-    "Product_dis": "£30.00",
-    "Product_Image": "./CartImage/Bay tree.png",
-    "discription": "The bay leaf is an aromatic leaf commonly used in cooking. It can be used whole, either dried or fresh, in which case it is removed from the dish before consumption, or less commonly used in ground form. It may come from several species of tree, the bay laurel and the California bay tree being the most common. The flavor that a bay leaf imparts to a dish has not been universally agreed upon, but most agree it is a subtle addition"
-  
-  },
-    {
-    "Product_Name": "Aloe Pink Blush",
-    "Product_Price": "£45.00",
-    "Product_dis": "£50.00",
-    "Product_Image": "./CartImage/AloePinkBlush.png",
-    "discription": "Spider Aloe is a small Aloe that forms dense clusters of small 8 inch wide stemless rosettes with 4 inch long by 1/2 inch wide incurved triangular shaped leaves. The leaves have long soft white marginal spines and a gray-green waxy surface covered with irregularly spaced bumps (tubercules). A foot tall flower spikes appear in late winter to spring, bearing about 20 pendulous 1.5 inch long red-orange flowers. This Aloe is drought tolerant with little to no irrigation required and is best when sheltered from getting overly wet in winter. Native to South Africa, Spider Aloe has undergone many different names including Aloe subtuberculata, Aloe suberecta, Aloe tuberculata, Aloe incurva, Aloe acuminata, Catevala humilis, Aloe perfoliata var. humilis and Aloe echinata. The species name humilis means 'low growing', refering to the plant's growth habit"  
+    "Product_dis": "£35.00",
+    "Product_Image": "./CartImage/CattleyaStarlynPink.png",
+    "discription": "The Canary Island date palm is typically cultivated in wet-winter or Mediterranean climates, but also in wet-summer or humid subtropical climates like eastern Australia and the southeastern United States. There are even several instances of cultivated Canary Island date palms in high-latitude oceanic climates, such as Ireland, the UK, and the Channel Islands.[5] It can be cultivated where temperatures rarely fall below −10 or −12 °C (14 or 10 °F) for extended periods, although it will require some protection if cold periods are longer than normal. It is a slowly growing tree, exclusively propagated by seed." 
   },
   {
-    "Product_Name": "Asparagus Fern",
-    "Product_Price": "£25.00",
-    "Product_dis": "£30.00",
-    "Product_Image": "./CartImage/AsparagusFern.png",
-    "discription": "Neither plant is a fern, but instead, they are warm-weather perennials closely related to the common edible garden asparagus. In zones 9 to 11, these plants are hardy outdoors, where they grow as creeping spreading plants, but it is also common for them to be grown as indoor houseplants, where they make good thriller specimens in mixed containers or hanging baskets"    
-  },
-  {
-    "Product_Name": "Ball Cactus",
-    "Product_Price": "£15.00",
-    "Product_dis": "£20.00",
-    "Product_Image": "./CartImage/BallCactus.png",
-    "discription": "The Parodia magnifica genus includes a multitude of showy and easy-to-grow small ball cacti. Their round appearance is to credit for their shapely name, and they can grow in pots in clusters up to over a foot wide. Ball cacti are moderate growers, adding about four inches to their height each year. Older plants will frequently produce flowers in beautiful shades of yellow, red, orange, or pink, and all varietals feature ridges of spikes that start white and grow to a yellow-brown with age"
-  },
-  {
-    "Product_Name": "Bay tree",
-    "Product_Price": "£25.00",
-    "Product_dis": "£30.00",
-    "Product_Image": "./CartImage/Bay tree.png",
-    "discription": "The bay leaf is an aromatic leaf commonly used in cooking. It can be used whole, either dried or fresh, in which case it is removed from the dish before consumption, or less commonly used in ground form. It may come from several species of tree, the bay laurel and the California bay tree being the most common. The flavor that a bay leaf imparts to a dish has not been universally agreed upon, but most agree it is a subtle addition"
-  
-  },
-   {
-    "Product_Name": "Aloe Pink Blush",
-    "Product_Price": "£45.00",
-    "Product_dis": "£50.00",
-    "Product_Image": "./CartImage/AloePinkBlush.png",
-    "discription": "Spider Aloe is a small Aloe that forms dense clusters of small 8 inch wide stemless rosettes with 4 inch long by 1/2 inch wide incurved triangular shaped leaves. The leaves have long soft white marginal spines and a gray-green waxy surface covered with irregularly spaced bumps (tubercules). A foot tall flower spikes appear in late winter to spring, bearing about 20 pendulous 1.5 inch long red-orange flowers. This Aloe is drought tolerant with little to no irrigation required and is best when sheltered from getting overly wet in winter. Native to South Africa, Spider Aloe has undergone many different names including Aloe subtuberculata, Aloe suberecta, Aloe tuberculata, Aloe incurva, Aloe acuminata, Catevala humilis, Aloe perfoliata var. humilis and Aloe echinata. The species name humilis means 'low growing', refering to the plant's growth habit"  
-  },
-  {
-    "Product_Name": "Asparagus Fern",
-    "Product_Price": "£25.00",
-    "Product_dis": "£30.00",
-    "Product_Image": "./CartImage/AsparagusFern.png",
-    "discription": "Neither plant is a fern, but instead, they are warm-weather perennials closely related to the common edible garden asparagus. In zones 9 to 11, these plants are hardy outdoors, where they grow as creeping spreading plants, but it is also common for them to be grown as indoor houseplants, where they make good thriller specimens in mixed containers or hanging baskets"    
-  },
-  {
-    "Product_Name": "Ball Cactus",
-    "Product_Price": "£15.00",
-    "Product_dis": "£20.00",
-    "Product_Image": "./CartImage/BallCactus.png",
-    "discription": "The Parodia magnifica genus includes a multitude of showy and easy-to-grow small ball cacti. Their round appearance is to credit for their shapely name, and they can grow in pots in clusters up to over a foot wide. Ball cacti are moderate growers, adding about four inches to their height each year. Older plants will frequently produce flowers in beautiful shades of yellow, red, orange, or pink, and all varietals feature ridges of spikes that start white and grow to a yellow-brown with age"
-  },
-  {
-    "Product_Name": "Bay tree",
-    "Product_Price": "£25.00",
-    "Product_dis": "£30.00",
-    "Product_Image": "./CartImage/Bay tree.png",
-    "discription": "The bay leaf is an aromatic leaf commonly used in cooking. It can be used whole, either dried or fresh, in which case it is removed from the dish before consumption, or less commonly used in ground form. It may come from several species of tree, the bay laurel and the California bay tree being the most common. The flavor that a bay leaf imparts to a dish has not been universally agreed upon, but most agree it is a subtle addition"
-  
+    "Product_Name": "Chinese Money Plant",
+    "Product_Price": "£35.00",
+    "Product_dis": "£35.00",
+    "Product_Image": "./CartImage/ChineseMoneyPlant (2).png",
+    "discription": "The Chinese money plant (or Pilea) is frequently featured in Scandinavian interiors, where its bright green pancake-shaped leaves provide an adorable and welcome burst of color against white walls. Pilea are said to be easy to grow, but if you’ve ever tried to find one of your own in a plant shop, you likely came home empty-handed.So before you get your heart set on acquiring a Chinese money plant of your very own, read the following tips and advice on finding one then caring for your hard-won prize."
   }
+   
 ]

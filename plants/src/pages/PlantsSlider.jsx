@@ -53,7 +53,7 @@ function PlantsSlider() {
               }}
             >
               {/* {featuredicons.map((slideContent, index) => ( */}
-              <SwiperSlide className='flex items-center'>
+              <SwiperSlide className='flex items-center justify-evenly'>
                 <img
                   src={indoorPlants}
                   alt=""
@@ -64,7 +64,7 @@ function PlantsSlider() {
                     <div> 5 items </div>
                 </div>
               </SwiperSlide>
-              <SwiperSlide className='flex items-center'>
+              <SwiperSlide className='flex items-center justify-evenly'>
                 <img
                   src={Cactus}
                   alt=""
@@ -75,7 +75,7 @@ function PlantsSlider() {
                     <div> 5 items </div>
                 </div>
               </SwiperSlide>
-              <SwiperSlide className='flex items-center'>
+              <SwiperSlide className='flex items-center justify-evenly'>
                
                   <img
                     src={OfficeEnergizers}
@@ -89,7 +89,7 @@ function PlantsSlider() {
              
                
               </SwiperSlide>
-              <SwiperSlide className='flex items-center'>
+              <SwiperSlide className='flex items-center justify-evenly'>
               
                   <img
                     src={Orchids}
@@ -102,7 +102,7 @@ function PlantsSlider() {
                 </div>
                
               </SwiperSlide>
-              <SwiperSlide className='flex items-center'>
+              <SwiperSlide className='flex items-center justify-evenly'>
                
                   <img
                     src={OutdoorPlants}

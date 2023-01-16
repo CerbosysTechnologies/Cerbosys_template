@@ -1,0 +1,42 @@
+.img {
+  width: 100%;
+  height: 100%;
+}
+.img_div {
+  position: relative;
+}
+.position_rel {
+  position: absolute;
+  bottom: 140px;
+  left: 0px;
+  right: 0px;
+  p {
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+  }
+  h4 {
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+  }
+}
+.position_left {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  .para {
+    font-weight: 700 !important;
+    font-size: 50px;
+    line-height: 0.9;
+  }
+}
+.img_div_uper {
+  position: relative;
+  height: 100%;
+}

@@ -1,0 +1,64 @@
+.sale_div {
+  position: absolute;
+  top: 10px;
+  width: 50px;
+  text-align: center;
+  height: 40;
+  color: #fff;
+  background: #dd3e3e;
+  border-radius: 5px;
+}
+.col_yelo {
+  color: #ffc300;
+}
+.sale_uper_div {
+  position: relative;
+}
+///our stisfycomponent css
+.para3 {
+  font-size: 24px;
+
+  font-weight: 500;
+  color: #000000;
+}
+
+// .para3::after {
+//   content: '';
+//   display: block;
+//   width: 60px;
+//   height: 2px;
+//   background: #ffc300;
+//   right: 37%;
+//   top: 50%;
+//   position: absolute;
+//   display: inline-block;
+// }
+// .para3::before {
+//   content: '';
+
+//   display: block;
+//   width: 60px;
+//   height: 2px;
+//   background: #ffc300;
+//   left: 37%;
+//   top: 50%;
+//   position: absolute;
+// }
+.img_wid {
+  width: 100px;
+}
+.fisher_text {
+  font-weight: 300;
+  font-size: 20px;
+  color: #595959;
+}
+.use_text {
+  font-weight: 300;
+  font-size: 14px;
+  color: #999999;
+}
+.back_ground {
+  background: #f5f5f5;
+  padding: 75px 0px;
+  margin-top: 70px;
+}

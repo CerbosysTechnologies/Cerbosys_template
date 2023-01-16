@@ -1,0 +1,97 @@
+.left-side {
+  text-align: start;
+}
+.abc {
+  color: #8888;
+}
+.absotut {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  .para {
+    line-height: 1;
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 10px;
+  }
+}
+.back_images {
+  background-image: url('../../assets/images/newsletter.png');
+  height: 300px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+
+  background-position-x: center;
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.abc_position {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  max-width: 100%;
+}
+.input {
+  width: 100%;
+  border: 0px;
+  background-color: #aaaaaa;
+  border-radius: 20px;
+  padding: 15px;
+}
+.input:focus {
+  border: 0px;
+  outline: none;
+}
+.progress {
+  height: 13px;
+  border-radius: 20px;
+  // border: 1px solid red;
+  // box-shadow: 0 2px 2px red;
+  margin-bottom: 20px;
+  overflow: visible;
+  position: relative;
+}
+.progress .progress_bar {
+  border-radius: 20px;
+  background: red;
+  // border: 1px solid red;
+  animation: animate-poditive 2s;
+}
+.progress .progress_bar .progress_bar_value {
+  width: 65px;
+  // height: 25px;
+  line-height: 25px;
+  // background: #171b3c;
+  font-size: 15px;
+  color: #fff;
+  border-radius: 0 0 15px 15px;
+  // border: 1px solid #000;
+  border-top: none;
+  // box-shadow: 0 2px 2px #171b3c;
+  position: absolute;
+  bottom: -25px;
+  right: 60px;
+}
+@keyframes animate-positive {
+  0% {
+    width: 0;
+  }
+}
+.head2 {
+  font-size: 30px;
+  font-weight: 700;
+}
+.btn_m {
+  margin-top: 40px;
+}
+.mt-d {
+  margin-top: 40px;
+}

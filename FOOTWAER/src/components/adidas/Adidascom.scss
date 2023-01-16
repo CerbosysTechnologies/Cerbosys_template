@@ -1,0 +1,20 @@
+.right_div {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  width: 400px;
+  max-width: 80%;
+  .para {
+    font-weight: 700 !important;
+    font-size: 50px;
+    line-height: 0.9;
+  }
+}
+.pt_div {
+  padding-top: 40px;
+}
