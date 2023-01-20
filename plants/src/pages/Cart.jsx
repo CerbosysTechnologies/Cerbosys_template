@@ -3,10 +3,10 @@ import React from "react";
 import indore from "../images/plantsSlider/indoorPlants.png";
 import data from "../componets/Product.json";
 const Cart = () => {
-//   console.log(data);
-//  data.map((item, index) => (console.log(item.Product_Image.substring(10))
+  console.log(data);
+ data.map((item, index) => (console.log(item.Product_Image.substring(12))
   
-//  ))
+ ))
   return (
     <div>
       {/* grid xl:grid-cols-4 lg:grid-col-3 lg:py-5 gap-10 lg:px-5  py-10 px-10 my-10 gap-x-16 */}
