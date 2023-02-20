@@ -11,8 +11,10 @@ const Footer = () => {
 
             <div className="py-3">
               <p className="pad_footer">
-                Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia
-                reprehenderit. Eos cumque dicta adipisci architecto culpa amet.
+                CERBOSYS is a software development company that provides
+                customized and creative services for online businesses. The
+                services we provide have been instrumental in helping shape
+                several start-up companies by meeting their changing needs.
               </p>
             </div>
           </div>
@@ -53,18 +55,18 @@ const Footer = () => {
             <h6>Contact Information</h6>
 
             <div className="py-3">
-              <p className="pad_footer">
-                291 South 21th Street, Suite 721 New York NY 10016
-              </p>
-              <p className="pad_footer">+ 1235 2355 98</p>
+              <p className="pad_footer">Address: 15-16 Lakshya Vihar Indore</p>
+              <p className="pad_footer">Tel: 0731 499 3444</p>
               <p className="pad_footer">My Account</p>
-              <p className="pad_footer">info@yoursite.com</p>
-              <p className="pad_footer">yoursite.com</p>
+              <p className="pad_footer">info@cerbosys.com</p>
+              <p className="pad_footer">website: www.cerbosys.com</p>
             </div>
           </div>
         </div>
         <div className="py-3 text-center">
-          <p className="pad_footer">Copyright ©2022 All rights reserved</p>
+          <p className="pad_footer">
+            © 2022 All Rights Reserved. Design by Cerbosys
+          </p>
         </div>
       </div>
     </>

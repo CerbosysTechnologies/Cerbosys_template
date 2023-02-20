@@ -4,9 +4,10 @@ const Footer = ()=>{
            <div class="footer">
         <div class="footer_bottom">
             <h3>ABOUT US</h3>
-            <p>Far far away, behind the word mountains,
-                far from the countries Vokalia and
-                Consonantia, there live the blind texts.</p>
+            <p>CERBOSYS is a software development company that provides
+                customized and creative services for online businesses. The
+                services we provide have been instrumental in helping shape
+                several start-up companies by meeting their changing needs.</p>
         </div>
         <div class="footer_bottom">
             <h3>R e c e n t B l o g</h3>
@@ -23,11 +24,11 @@ const Footer = ()=>{
                 Performance</p>
         </div>
         <div class="footer_bottom">
-            <h3>H av e a Q u e s t i o n s ?</h3>
-            <p>203 Fake St. Mountain View, San
-                Francisco, California, USA</p>
-                <p>+2 392 3929 210</p>
-                <p><a href="info@yourdomain.com">info@yourdomain.com</a> </p>
+        <p className="pd">Address: 15-16 Lakshya Vihar Indore</p>
+              <p className="pd">Tel: 0731 499 3444</p>
+              <p className="pd">My Account</p>
+              <p className="pd">info@cerbosys.com</p>
+              <p className="pd">website: www.cerbosys.com</p>
         </div>
       </div>
         </>

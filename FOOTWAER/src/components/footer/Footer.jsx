@@ -10,10 +10,11 @@ const Footer = () => {
           <div className="col-lg-3 col-md-5 col-12 p-0 mt-2">
             <h4>Contact</h4>
             <div className="py-3">
-              <p className="pd"> 1234 Heaven Stress, Beverly Hill.</p>
-              <p className="pd">Telephone: +01 234 567 89</p>
-              <p className="pd"> Email: domain@gmail.com</p>
-              <p className="pd">8:00 - 19:00, Monday - Saturday</p>
+              <p className="pd">Address: 15-16 Lakshya Vihar Indore</p>
+              <p className="pd">Tel: 0731 499 3444</p>
+              <p className="pd">My Account</p>
+              <p className="pd">info@cerbosys.com</p>
+              <p className="pd">website: www.cerbosys.com</p>
               <img src={footer_img} alt="img" className="pt-3" />
             </div>
             <div className="d-flex justify-content-between"></div>
@@ -51,8 +52,8 @@ const Footer = () => {
         </div>
       </div>
       <div className="footer_inner">
-        <p className="px-4 colr fs_s13">
-          Copyright © 2022. All Rights Reserved.
+        <p className="px-4 colr fs_s13 text-center">
+          © 2022 All Rights Reserved. Design by Cerbosys
         </p>
       </div>
     </>

@@ -49,7 +49,7 @@ function Footer() {
               <div class="container">
                  <div class="row">
                     <div class="col-md-12">
-                       <p>© 2019 All Rights Reserved. Design by Cerbosys</p>
+                       <p>© 2022 All Rights Reserved. Design by Cerbosys</p>
                     </div>
                  </div>
               </div>
